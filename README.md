@@ -3,11 +3,11 @@
 KiCad footprint for the **ESP32-S3 Super Mini** module THT version (`MODULE_ESP32-S3-SuperMiniTHT`).
 This footprint ONLY includes the main THT holes for the GPIO pins on the two sides, for anyone that might prefer that
 
-![Footprint preview](1.png)
+![Footprint preview](1.png?v=2)
 
 3D view:
 
-![3D view](2.png)
+![3D view](2.png?v=2)
 
 ## Pinout
 
